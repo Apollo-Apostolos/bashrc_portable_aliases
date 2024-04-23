@@ -1,2 +1,4 @@
-# bashrc_portable_aliases
-Portable Aliases ~ Drag n' Drop Management
+# Portable Aliases
+Portable Aliases ~ .bashrc Management
+
+On it's way. took me 10 hours to make this..... got snagged on some bugs.
